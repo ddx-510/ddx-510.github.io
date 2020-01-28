@@ -12,20 +12,20 @@ Many thanks to the zhihu User: [Amserphere](https://zhuanlan.zhihu.com/p/5595258
 )
 
 # MC server
-## requirements:
+## Requirements:
 - Money
 - Some IQ
 - A laptop
 - An account : either alicloud or google cloud
 
-## procedures:
-### part 0:
+## Procedures:
+### Part 0:
 
 - Find product in google cloud/ alicloud. Here I am using google cloud might be a little bit different from alicloud. Select VM engine, create a new instance and select ubuntu 18.04, I only gave it a g1-micro core, but you can add more if you want.
 
 - open vm engine, click ssh to access to the server
 
-### part 1:
+### Part 1:
 
 Gain operation right
 
@@ -58,7 +58,7 @@ Get the foooking package
 sudo wget https://launcher.mojang.com/v1/objects/e9f105b3c5c7e85c7b445249a93362a22f62442d/server.jar
 ```
 
-### part 2:
+### Part 2:
 Find path
 
 ```
@@ -82,7 +82,7 @@ If firewall not installed, then follow the suggested command to install firewall
 Go to Fire wall settings:
 - Add firewall rule TCP with port range 25565
 
-### part 3:
+### Part 3:
 Start server!
 
 ```
@@ -129,7 +129,7 @@ online-mode:true
 to
 ``online-mode:false``
 
-### final
+### Final Steps
 re-enter
 ```
 sudo java -Xms512m -Xmx1024m -jar /home/admin/server.jar nogui
