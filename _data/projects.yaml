@@ -1,4 +1,14 @@
 - title: BuildingBloCS 2019
   url: https://buildingblocs.github.io/2019/
-  image: /images/project.jpg
+  image: /images/bbcs.jpg
+  completed: true
+
+- title: VeriNews
+  url:   https://chrome.google.com/webstore/detail/verinews/kdkjggfmmidmegoiadblpehmcpimmhpg?hl=en
+  image: /images/verinews.jpg
+  completed: true
+
+- title: GraviCtr
+  url:   https://github.com/ddx-510/GraviCtr
+  image: /images/gravictr.jpg
   completed: true
