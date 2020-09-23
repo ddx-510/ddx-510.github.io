@@ -12,3 +12,8 @@
   url:   https://github.com/ddx-510/GraviCtr
   image: /images/gravictr.jpg
   completed: true
+
+- title: Panda Learn Chinese
+  url:   https://www.youtube.com/watch?v=H1VhM2L18bs&t=12s
+  image: /images/sccl.jpg
+  completed: true
