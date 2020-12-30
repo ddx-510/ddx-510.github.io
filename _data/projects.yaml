@@ -17,3 +17,8 @@
   url:   https://www.youtube.com/watch?v=H1VhM2L18bs&t=12s
   image: /images/sccl.jpg
   completed: true
+
+- title: TodoNex
+  url:   https://todo-nex.herokuapp.com/
+  image: /images/todonex.jpg
+  completed: true
