@@ -64,7 +64,7 @@ public class WriteJSONExample
 ```
 
 Result would be
-```json=
+```json
 {    
     "fruit": {
             "Name": "Banana",
@@ -128,7 +128,7 @@ public class WriteJSONExample
 }
 ```
 Result would be
-```json=
+```json
 [
     {    
         "fruit": {
@@ -160,7 +160,7 @@ But it only provides a code example for reading a JSON Object. (and array within
 
 Consider this example
 
-```java=
+```java
 import java.io.FileReader;
 import java.util.Iterator;
 
