@@ -3,6 +3,11 @@
   image: /images/bbcs.jpg
   completed: true
 
+- title: AssaShine
+  url: https://www.youtube.com/watch?v=k5ThX0D41Dw
+  image: /images/assashine.png
+  completed: true
+
 - title: VeriNews
   url:   https://chrome.google.com/webstore/detail/verinews/kdkjggfmmidmegoiadblpehmcpimmhpg?hl=en
   image: /images/verinews.jpg
