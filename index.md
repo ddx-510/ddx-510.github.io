@@ -3,9 +3,16 @@ layout: home
 ---
 # About me
 
-I am a student who is currently an undergraduate in National University of Singapore.
+- Final year Computer Science student at National University of Singapore.
+- Software developer at [PlatoX Ai](https://platox.ai/).
+- OSO A part time Game developer on my own :)
 
-Interested in making apps, websites, and games. <self-learned enthusiast in coding>
-Waiting to find out more on Algorithms, Logic, Machine Learning.
+Techstacks:
 
-Loves games, keen in playing [MAGIC](https://magic.wizards.com/en).
+- Frontend: React native, Expo, NextJS, ReactJS
+- Backend: Rust, Python, Golang
+- Db management: PostgreSQL, supabase
+- Cloud computing: AWS, Tencent cloud
+- OS: Linux (Ubuntu, Fedora)
+
+Keen in making games, apps and more.
