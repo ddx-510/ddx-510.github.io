@@ -1,13 +1,29 @@
-- title: BuildingBloCS 2019
-  url: https://buildingblocs.github.io/2019/
-  image: /images/bbcs.jpg
+- title: CopyCat
+  url:   https://marketplace.visualstudio.com/items?itemName=GDX-Copycat.copycat&ssr=false#overview
+  image: /images/copycat.png
   completed: true
+
+- title: The Tale of KentRidge
+  url: https://dorahacks.io/buidl/8465
+  image: /images/TOK.png
+  completed: true
+
+- title: MetalCore
+  url: https://uvents.nus.edu.sg/event/22nd-steps/module/CS3247/project/9
+  image: /images/metalcore.png
+  completed: true
+
 
 - title: AssaShine
   url: https://www.youtube.com/watch?v=k5ThX0D41Dw
   image: /images/assashine.png
   completed: true
 
+- title: BuildingBloCS 2019
+  url: https://buildingblocs.github.io/2019/
+  image: /images/bbcs.jpg
+  completed: true
+  
 - title: VeriNews
   url:   https://chrome.google.com/webstore/detail/verinews/kdkjggfmmidmegoiadblpehmcpimmhpg?hl=en
   image: /images/verinews.jpg
@@ -31,19 +47,4 @@
 - title: NekoChesu
   url:   https://devpost.com/software/neko-chesu
   image: /images/neko.png
-  completed: true
-
-- title: CopyCat
-  url:   https://marketplace.visualstudio.com/items?itemName=GDX-Copycat.copycat&ssr=false#overview
-  image: /images/copycat.png
-  completed: true
-
-- title: The Tale of KentRidge
-  url: https://dorahacks.io/buidl/8465
-  image: /images/TOK.png
-  completed: true
-
-- title: MetalCore
-  url: https://uvents.nus.edu.sg/event/22nd-steps/module/CS3247/project/9
-  image: /images/metalcore.png
   completed: true
